@@ -1,0 +1,8 @@
+train: /home/icssl_pub/Project/Narcissus/DIP_FP/YOLO_v11/train/images
+val: /home/icssl_pub/Project/Narcissus/DIP_FP/YOLO_v11/val/images
+
+train_label_dir: /home/icssl_pub/Project/Narcissus/DIP_FP/YOLO_v11/train/labels
+val_label_dir: /home/icssl_pub/Project/Narcissus/DIP_FP/YOLO_v11/val/labels
+
+nc: 1
+names: ['water']
